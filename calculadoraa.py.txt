@@ -1,0 +1,35 @@
+import ps
+
+while (opciones<=5):
+print("calculadora")
+print("menu")
+print("-----")
+
+print("1)resta")
+print("2)suma")
+print("3)multiplicacion")
+print("4)division")
+print("5)salir")
+
+opc=input("puede elejir una opcion":)
+
+x=int(input("ingresar un numero:"))
+y=int(input("ingresar otro numero:"))
+
+if opcion < 1 and opcion < 2 and opcion < 3 opcion < 4 opcion < 5:
+
+la suma=x+y
+
+print ("la suma es:", suma)
+os.system("cls")
+
+opc=input("elige una opcion:")
+else
+
+if opc<1 and opc<2 and opc<3 and opc<4 and opc<5:
+
+resta=x-y
+
+print("la resta es:", resta)
+os system ("cls")
+opc=input("elige una opcion:")
